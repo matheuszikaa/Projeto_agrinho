@@ -11,4 +11,9 @@ header {
     
 .cabecalho { 
     display: flex;
-    justify-content: space-around;
+    justify-content: space-around;}
+
+    #titulo {
+        color:#1F1717;
+        font-size: 50px;
+        text-align: center;}
