@@ -13,7 +13,13 @@ header {
     display: flex;
     justify-content: space-around;}
 
-    #titulo {
+ #titulo {
         color:#1F1717;
         font-size: 50px;
         text-align: center;}
+
+    .paragrafo{
+            color: #1F1717;
+            font-size: 20px;
+            text-align: justify;
+        }
