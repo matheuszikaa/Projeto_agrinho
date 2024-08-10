@@ -1,6 +1,14 @@
+body {
+    background-color: #FFDFDF;
+    background-image: linear-gradient(#e4e4f2);
+    font-family: sans-serif;
+}
 header { 
     padding: 30px;
     color: #307e8c;
     font-size: 30px;
     border-bottom:5px solid ;}
     
+.cabecalho { 
+    display: flex;
+    justify-content: space-around;
